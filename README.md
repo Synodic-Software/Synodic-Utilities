@@ -1,2 +1,1 @@
-# Synodic-Utilities
-Python utilities library
+# synodic-utilities
